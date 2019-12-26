@@ -1,5 +1,5 @@
 # carbontoolkit
-Automated tool for vulnerability assessment
+Automated tool for information gathering and vulnerability assessment
 
 carbontoolkit is an automated tool created to assist during vulnerability assessment.
 I suggest installing "The Penetration Testers Framework (PTF)" by trustedsec (https://github.com/trustedsec/ptf) to make sure that the tool works at its best. 
