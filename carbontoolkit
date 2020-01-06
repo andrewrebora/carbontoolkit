@@ -158,17 +158,17 @@ tput sgr0;
 echo ""
 droopescan scan joomla -u http://$TARGET
 echo ""
-tput setaf 1; echo "[Running droopescan Drupal]"
+tput setaf 1; echo "[Running droopescan (Drupal)]"
 tput sgr0;
 echo ""
 droopescan scan drupal -u http://$TARGET
 echo ""
-tput setaf 1; echo "[Running droopescan Silverstripe]"
+tput setaf 1; echo "[Running droopescan (Silverstripe)]"
 tput sgr0;
 echo ""
 droopescan scan silverstripe -u http://$TARGET
 echo ""
-tput setaf 1; echo "[Running droopescan Moodle]"
+tput setaf 1; echo "[Running droopescan (Moodle)]"
 tput sgr0;
 echo ""
 droopescan scan moodle -u http://$TARGET
