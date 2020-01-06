@@ -16,8 +16,8 @@ Type carbontoolkit to run the tool.
 To uninstall it, run 'bash uninstall.sh'
 
 # UPCOMING FEATURES
-About twenty Metasploit modules to further gather information and scan for vulnerabilities.
-Output of each tool in a single folder for easy review.
+Ten to twenty Metasploit modules to further gather information and scan for vulnerabilities.  
+Output of each tool in a single folder for easy review.  
 Addition of new tools.
 
 # DISCLAIMER
