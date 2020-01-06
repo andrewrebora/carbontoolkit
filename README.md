@@ -12,7 +12,7 @@ cd carbontoolkit
 
 bash install.sh
 
-Follow the instructions to complete the installation
+Follow the instructions you will read in the terminal to complete the installation
 
 Type carbontoolkit to run the tool.
 
