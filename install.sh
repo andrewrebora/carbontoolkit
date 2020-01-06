@@ -88,10 +88,6 @@ git clone https://github.com/urbanadventurer/WhatWeb.git
 git clone https://github.com/m4ll0k/WAScan.git
 git clone https://github.com/metachris/wpscanner.git
 git clone https://github.com/m4ll0k/WPSeku.git
-git clone https://github.com/hahwul/a2sv.git
-cd a2sv/
-./install.sh
-cd ..
 git clone https://github.com/jekyc/wig.git
 git clone https://github.com/rbsec/dnscan.git
 git clone https://github.com/christophetd/censys-subdomain-finder.git
