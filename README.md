@@ -6,9 +6,9 @@ It was meant to be used privately and be highly customizable. As a consequence, 
 I already provide Censys keys but I suggest tailoring carbontoolkit.conf for your personal needs.
 
 # INSTALLATION
-git clone https://github.com/andrearebora/carbontoolkit
-cd carbontoolkit
-bash install.sh
+git clone https://github.com/andrearebora/carbontoolkit  
+cd carbontoolkit  
+bash install.sh  
 Follow the instructions you will read in the terminal to complete the installation
 
 Type carbontoolkit to run the tool.
