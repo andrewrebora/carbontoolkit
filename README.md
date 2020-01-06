@@ -1,8 +1,8 @@
 # carbontoolkit
 Automated tool for information gathering and vulnerability assessment
 
-carbontoolkit is an automated tool created to assist during vulnerability assessment. It has been created to gather all the information needed for a preliminary vulnerability assessment.
-It was meant to be used privately and be highly customizable. As a consequence, there might still be a few issues to address. I will continue testing and fixing it so that any user can use carbontoolkit.
+carbontoolkit is an automated tool created to assist during vulnerability assessment. It has been created to gather all the information needed for a preliminary vulnerability assessment.  
+It was meant to be used privately and be highly customizable. As a consequence, there might still be a few issues to address. I will continue testing and fixing it so that any user can use carbontoolkit.  
 I already provide Censys keys but I suggest tailoring carbontoolkit.conf for your personal needs.
 
 # INSTALLATION
