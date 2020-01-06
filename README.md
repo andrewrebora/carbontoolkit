@@ -9,9 +9,9 @@ I already provide Censys keys but I suggest tailoring carbontoolkit.conf for you
 git clone https://github.com/andrearebora/carbontoolkit  
 cd carbontoolkit  
 bash install.sh  
-Follow the instructions you will read in the terminal to complete the installation
+Follow the instructions you will read in the terminal to complete the installation.
 
-Type carbontoolkit to run the tool.
+Type 'carbontoolkit' to run the tool.
 
 To uninstall it, run 'bash uninstall.sh'
 
