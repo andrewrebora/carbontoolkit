@@ -183,11 +183,11 @@ tput sgr0;
 echo ""
 sslyze --regular --hide_rejected_ciphers --http_headers --slow_connection $TARGET
 echo ""
-#tput setaf 1; echo "[Running a2sv]"
-#tput sgr0;
-#echo""
-#python $MODULES_DIR/a2sv/a2sv.py -t $TARGET
-#echo ""
+tput setaf 1; echo "[Running a2sv]"
+tput sgr0;
+echo""
+python $MODULES_DIR/a2sv/a2sv.py -t $TARGET
+echo ""
 tput setaf 1; echo "[Running Sublist3r]"
 tput sgr0;
 echo ""
