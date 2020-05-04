@@ -1,5 +1,5 @@
 # carbontoolkit
-Automated tool for information gathering and vulnerability assessment
+Automated tool for information gathering and vulnerability assessment.
 
 Carbontoolkit is an automated tool created to assist the user in gathering information needed for a preliminary vulnerability assessment.  
 It was meant to be used privately and be highly customizable; as a consequence, there might still be a few issues to address. I will continue testing and fixing it so that anyone can use carbontoolkit.  
