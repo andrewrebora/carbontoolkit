@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to install carbontoolkit
-# Created by Andrea Rebora (@AndreaRebora01)
+# Created by Andrea Rebora (@TheAndreaRebora)
 
 echo ""
 echo "                        _                   __                  __         __  __    "
