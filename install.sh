@@ -11,7 +11,7 @@ echo "    \_____/_/  \_\|__|  |_____/\____/|___|__/__|  \____/ \____/|____/__|__
 echo "                                                                                     "
 echo "		Information Gathering and Vulnerability Assessment"
 echo "		Version 1.0"
-echo "		Created by Andrea Rebora (AndreaRebora01)"
+echo "		Created by Andrea Rebora (TheAndreaRebora)"
 echo ""
 
 INSTALL_DIR=/usr/share/carbontoolkit
